@@ -81,8 +81,5 @@
 
     <!-- Blur effects -->
     <java-symbol type="bool" name="config_uiBlurEnabled" />
-<<<<<<< HEAD
 
-=======
->>>>>>> b827db1... windowmanager: Add support for blur effects
 </resources>
